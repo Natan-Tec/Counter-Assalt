@@ -1,0 +1,83 @@
+"filters"
+{
+	"favorites"
+	{
+		"0"
+		{
+			"name"		"135.125.194.17:27015"
+			"address"	"135.125.194.17:27015"
+			"lastplayed"	"1657337227"
+			"appID"		"0"
+		}
+
+	}
+
+	"history"
+	{
+		"0"
+		{
+			"name"		"192.168.1.101:27015"
+			"address"	"192.168.1.101:27015"
+			"lastplayed"	"1761216352"
+			"appID"		"0"
+		}
+
+		"1"
+		{
+			"name"		"192.168.1.100:27015"
+			"address"	"192.168.1.100:27015"
+			"lastplayed"	"1761592859"
+			"appID"		"0"
+		}
+
+		"2"
+		{
+			"name"		"192.168.0.109:27015"
+			"address"	"192.168.0.109:27015"
+			"lastplayed"	"1762975315"
+			"appID"		"0"
+		}
+
+		"3"
+		{
+			"name"		"CS.INTRUSII.RO # Revive Teammates #VIP-FREE"
+			"address"	"193.42.12.27:27015"
+			"lastplayed"	"1765062132"
+			"appID"		"10"
+		}
+
+		"4"
+		{
+			"name"		"192.168.0.101:27015"
+			"address"	"192.168.0.101:27015"
+			"lastplayed"	"1765062383"
+			"appID"		"0"
+		}
+
+		"5"
+		{
+			"name"		"OFFICIAL.DUAL-GAMING.RO || VIP FREE"
+			"address"	"217.156.22.135:27015"
+			"lastplayed"	"1765663228"
+			"appID"		"0"
+		}
+
+		"6"
+		{
+			"name"		"172.25.80.1:27015"
+			"address"	"172.25.80.1:27015"
+			"lastplayed"	"1773001996"
+			"appID"		"0"
+		}
+
+		"7"
+		{
+			"name"		"192.168.56.1:27015"
+			"address"	"192.168.56.1:27015"
+			"lastplayed"	"1775239946"
+			"appID"		"0"
+		}
+
+	}
+
+}
